@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aichatbot</string>
+    <string name="Send">Send</string>
+    <string name="backButton">backButton</string>
+    <string name="Time">10:00</string>
+    <string name="text">This is a Message</string>
+    <string name="back_button_desc">backButton</string>
+    <string name="message_me">Id</string>
+    <string name="type_a_message">Type a Message…</string>
+</resources>

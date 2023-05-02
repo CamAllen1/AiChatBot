@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Aichatbot.chatbot" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="color">#FFFFFF</item>
+        <item name="colorSecondary">#FFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="android:color">#FFFFFF</item>
+        <item name="colorSecondaryVariant">#FFFFFF</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

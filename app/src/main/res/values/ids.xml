@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layout_chat_container_me" type="id" />
+    <item name="text_chat_message_me" type="id" />
+    <item name="text_chat_timestamp_me" type="id" />
+    <item name="backButton" type="id"/>
+    <item name="sendButton" type="id"/>
+    <item name="scroll_view" type="id"/>
+    <item name="message_me" type="id"/>
+    <item name="activity_main" type="id" />
+    <item name="BotResponse" type="id" />
+</resources>
